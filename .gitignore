@@ -3,3 +3,8 @@
 /.vscode
 venv
 /venv
+.news*
+/.news*
+chroma*
+./chroma*
+./news*
